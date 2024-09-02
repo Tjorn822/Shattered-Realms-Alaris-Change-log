@@ -1,0 +1,42 @@
+Change Log 1.0
+
+################################
+Issues
+################################
+
+1. DM's could not see anything in proper catagories.
+
+2. Players could not see channel history anywhere.
+
+3. General clean up of server permissions.
+
+4. Set basic role above everyone.
+
+################################
+Fixes
+################################
+
+1. Changed the General category to be viewed by everyone as default.
+
+2. Changed the DM role default permissions to alow them to send general messages as we as send messages in threads. Also allowed them to create public and private threads, use Embed Links, Attach Files, Add reactions, read message history, and use voice activity.
+
+3. Changed the defaults of Trial DMs to be able to view channels, send messages, and read message history.
+
+4. Changed the "How to be a Dm" catagory to be seen only by thoes with the Patron role.
+
+5. Changed the "Character Creation" catagory to be useable by the Patron role only, and not seen by the everyone role.
+
+6. Added the Patron role to the "Guilds" catagory, turned off viewing by everyone.
+
+7. Changed the "Jobs and Crafting" catagory to not be viewed by everyone and added the Patron role to it.
+
+8. Changed the "Marketplace" catagory to not be viewed by everyone and added the parton role to it.
+
+9. "Quest Board" can no longer be seen by everyone. Added Patron role to it.
+
+10. Added Parton role to Game rooms 1-3. 
+    a. Removed the roles, Trial DM, DM Team, Lvl 17-20 Hero, Lvl 3-4 Initiate from the role list. Also made it viewable by Patron role only.
+
+11. Added the Roleplay role to the catagory "RP", also made it unviewable by everyone.
+
+12. Removed the viewable by everyone perm from xbox gaming.
